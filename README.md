@@ -1,4 +1,4 @@
-# ZX Spectrum 128K for [MIST Board](https://github.com/mist-devel/mist-board/wiki)
+# ZX Spectrum 128K for [Unamiga Reloaded](https://github.com/UnAmigaReloaded-fpga)
 
 Ported to UnAmiga Reloaded from mc2 fpga board.
 
